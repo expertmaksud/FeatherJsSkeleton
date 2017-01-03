@@ -1,0 +1,14 @@
+{
+  "host": "localhost",
+  "port": 3030,
+  "postgres": "postgres://postgres:xnbgrw99@localhost:5432/JibberMailer",
+  "db_dialect":"postgres",
+  "public": "../public/",
+  "auth": {
+    "idField": "id",
+    "token": {
+      "secret": "Fpp2EzaLORDNkvgBE7WMulstCzve5GEz9ATrCUvFEZJC9X/DQZkn80GHaMQPxEd9F+5j/kGGB1oygAcNH0Fy1g=="
+    },
+    "local": {}
+  }
+}
